@@ -21,8 +21,15 @@ nav {
   display: flex;
   align-items: center;
 }
+h4 {
+    color: #60a3bc;
+    letter-spacing: .3em;
+}
 a {
   text-decoration: none;
+  font-weight: 550;
+  color: #000;
+  letter-spacing: 3px;
 }
 li {
   list-style: none;
